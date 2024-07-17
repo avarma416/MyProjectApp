@@ -12,8 +12,8 @@
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Merciboi Systems Solutions</name>
-		<url>https://www.merciboi.com/</url>
+		<name>avarma</name>
+		<url>https://wwww.example.com/</url>
 	</organization>
 
 	<properties>
@@ -96,13 +96,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>MerciBoi Systems Releases Nexus Repository</name>
+	      <name> Nexus Repository</name>
 	      <url>http://54.174.130.127:8081/repository/tesla-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>MerciBoi Systems Snapshot Nexus Repository</name>
+	      <name>Nexus Repository</name>
 	      <url>http://54.174.130.127:8081/repository/tesla-snapshots/</url>
 	    </snapshotRepository>
 	    
